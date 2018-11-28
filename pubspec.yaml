@@ -10,7 +10,8 @@ dependencies:
   angular: ^5.1.0
   js_shims: ^1.0.0
   intl: ^0.15.0
-  bootstrap_sass: ^4.1.3+0
+  md_bootstrap_scss:
+    git: https://github.com/Dart-Land/md_bootstrap_scss.git
   stream_transform: ^0.0.11
   font_awesome: ^4.7.0
   angular_forms: ^2.0.0
