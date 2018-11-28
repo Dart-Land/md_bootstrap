@@ -12,7 +12,7 @@ part of bs_table_directives;
 /// <bs-table>
 /// ```
 ///
-/// [demo](http://dart-league.github.io/md_bootstrap/#table)
+/// [demo](http://dart-land.github.io/md_bootstrap/#table)
 @Component(
     selector: 'bs-table',
     templateUrl: 'table_component.html',

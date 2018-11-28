@@ -1,8 +1,8 @@
 # md_bootstrap
 
-[Join the chat](https://gitter.im/dart-league/md_bootstrap)
+[Join the chat](https://gitter.im/dart-land/md_bootstrap)
 
-[Usage & Demo](https://dart-league.github.io/md_bootstrap/)
+[Usage & Demo](https://dart-land.github.io/md_bootstrap/)
 
 # Getting Started
 
@@ -67,27 +67,27 @@ Then in your `index.html` file change the `link` tag to point to the new theme.
 
 ## Components
 
-- [x] [Accordion](https://dart-league.github.io/md_bootstrap/#accordion)
-- [x] [Alert](https://dart-league.github.io/md_bootstrap/#alert)
-- [x] [Buttons](https://dart-league.github.io/md_bootstrap/#buttons)
-- [x] [Carousel](https://dart-league.github.io/md_bootstrap/#carousel)
-- [x] [Collapse](https://dart-league.github.io/md_bootstrap/#collapse)
-- [x] [DatePicker](https://dart-league.github.io/md_bootstrap/#datepicker)
-- [x] [DatePickerPopup](https://dart-league.github.io/md_bootstrap/#datepicker)
-- [x] [Dropdown](https://dart-league.github.io/md_bootstrap/#dropdown)
-- [x] [Modal](https://dart-league.github.io/md_bootstrap/#modal)
-- [x] [Pagination](https://dart-league.github.io/md_bootstrap/#pagination)
-- [x] [Popover](https://dart-league.github.io/md_bootstrap/#popover)
-- [x] [Progressbar](https://dart-league.github.io/md_bootstrap/#progressbar)
-- [x] [PromptService](https://dart-league.github.io/md_bootstrap/#prompt)
-- [x] [Rating](https://dart-league.github.io/md_bootstrap/#rating)
-- [x] [Tabs](https://dart-league.github.io/md_bootstrap/#tabs)
-- [x] [Timepicker](https://dart-league.github.io/md_bootstrap/#timepicker)
-- [x] [Tooltip](https://dart-league.github.io/md_bootstrap/#tooltip)
-- [x] [Typeahead](https://dart-league.github.io/md_bootstrap/#typeahead)
-- [x] [Grid/Table](https://dart-league.github.io/md_bootstrap/index.html#table)
-- [x] [FileInput](https://dart-league.github.io/md_bootstrap/index.html#file_upload)
-- [x] [TextInput](https://dart-league.github.io/md_bootstrap/index.html#text_input)
+- [x] [Accordion](https://dart-land.github.io/md_bootstrap/#accordion)
+- [x] [Alert](https://dart-land.github.io/md_bootstrap/#alert)
+- [x] [Buttons](https://dart-land.github.io/md_bootstrap/#buttons)
+- [x] [Carousel](https://dart-land.github.io/md_bootstrap/#carousel)
+- [x] [Collapse](https://dart-land.github.io/md_bootstrap/#collapse)
+- [x] [DatePicker](https://dart-land.github.io/md_bootstrap/#datepicker)
+- [x] [DatePickerPopup](https://dart-land.github.io/md_bootstrap/#datepicker)
+- [x] [Dropdown](https://dart-land.github.io/md_bootstrap/#dropdown)
+- [x] [Modal](https://dart-land.github.io/md_bootstrap/#modal)
+- [x] [Pagination](https://dart-land.github.io/md_bootstrap/#pagination)
+- [x] [Popover](https://dart-land.github.io/md_bootstrap/#popover)
+- [x] [Progressbar](https://dart-land.github.io/md_bootstrap/#progressbar)
+- [x] [PromptService](https://dart-land.github.io/md_bootstrap/#prompt)
+- [x] [Rating](https://dart-land.github.io/md_bootstrap/#rating)
+- [x] [Tabs](https://dart-land.github.io/md_bootstrap/#tabs)
+- [x] [Timepicker](https://dart-land.github.io/md_bootstrap/#timepicker)
+- [x] [Tooltip](https://dart-land.github.io/md_bootstrap/#tooltip)
+- [x] [Typeahead](https://dart-land.github.io/md_bootstrap/#typeahead)
+- [x] [Grid/Table](https://dart-land.github.io/md_bootstrap/index.html#table)
+- [x] [FileInput](https://dart-land.github.io/md_bootstrap/index.html#file_upload)
+- [x] [TextInput](https://dart-land.github.io/md_bootstrap/index.html#text_input)
 - [ ] ImageInput
 - [ ] SignItInput
 - [ ] SignInput
@@ -101,9 +101,9 @@ Then in your `index.html` file change the `link` tag to point to the new theme.
 
 ## Contribution
 
-[Create new issues](https://github.com/dart-league/md_bootstrap/issues/new)
+[Create new issues](https://github.com/dart-land/md_bootstrap/issues/new)
 
-[Fork me](https://github.com/dart-league/md_bootstrap/issues#fork-destination-box)
+[Fork me](https://github.com/dart-land/md_bootstrap/issues#fork-destination-box)
 
 
 ### TODO

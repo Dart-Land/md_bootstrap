@@ -19591,11 +19591,11 @@ if(u==null)u=v
 x.d="https://www.dartdocs.org/documentation/md_bootstrap/latest/"+u+"/"+u+"-library.html"
 t=H
 z=2
-return P.cK(W.m9("https://raw.githubusercontent.com/dart-league/md_bootstrap/develop/demo/web/components/"+H.r(x.c)+"/"+H.r(x.c)+"_demo.dart",null,null),$async$u)
+return P.cK(W.m9("https://raw.githubusercontent.com/dart-land/md_bootstrap/develop/demo/web/components/"+H.r(x.c)+"/"+H.r(x.c)+"_demo.dart",null,null),$async$u)
 case 2:x.e=t.m(b)
 t=H
 z=3
-return P.cK(W.m9("https://raw.githubusercontent.com/dart-league/md_bootstrap/develop/demo/web/components/"+H.r(x.c)+"/"+H.r(x.c)+"_demo.html",null,null),$async$u)
+return P.cK(W.m9("https://raw.githubusercontent.com/dart-land/md_bootstrap/develop/demo/web/components/"+H.r(x.c)+"/"+H.r(x.c)+"_demo.html",null,null),$async$u)
 case 3:x.f=t.m(b)
 return P.ct(null,y)}})
 return P.cu($async$u,y)}}}],["","",,K,{"^":"",yP:{"^":"e;0r,0x,0y,0z,0Q,0ch,0cx,0cy,0db,0dx,0dy,0fr,0fx,0fy,0go,0id,0k1,0a,b,c,0d,0e,0f",
@@ -20294,7 +20294,7 @@ J.t(S.c(w,"p",t),w.createTextNode("Native Angular2 directives for Bootstrap 4"))
 s=S.c(w,"a",t)
 s.className="btn btn-primary"
 v=J.u(s)
-v.k(s,"href","https://github.com/dart-league/md_bootstrap")
+v.k(s,"href","https://github.com/dart-land/md_bootstrap")
 v.h(s,w.createTextNode("View on GitHub"))
 r=S.c(w,"p",t)
 q=S.c(w,"iframe",r)
@@ -21069,7 +21069,7 @@ i5.className="col-md-12 text-center small"
 i6=S.c(w,"p",i5)
 i7=S.c(w,"a",i6)
 v=J.u(i7)
-v.k(i7,"href","https://github.com/dart-league/md_bootstrap")
+v.k(i7,"href","https://github.com/dart-land/md_bootstrap")
 v.h(i7,w.createTextNode("md_bootstrap"))
 v=J.u(i6)
 v.h(i6,w.createTextNode(" is maintained by "))

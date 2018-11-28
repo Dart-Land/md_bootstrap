@@ -23,7 +23,7 @@ class DemoSection implements OnInit {
   ngOnInit() async {
     nameTN = toTableName(name);
     var docPathNameTN = 'components_$nameTN\_$nameTN';
-    var rawMasterUrl = 'https://raw.githubusercontent.com/dart-league/md_bootstrap/develop/demo';
+    var rawMasterUrl = 'https://raw.githubusercontent.com/dart-land/md_bootstrap/develop/demo';
     var componentsUrl = '$rawMasterUrl/web/components';
     var _docPath = docPath ?? docPathNameTN;
     docUrl = 'https://www.dartdocs.org/documentation/md_bootstrap/latest/$_docPath/$_docPath-library.html';

@@ -18,7 +18,7 @@ enum Direction { UNKNOWN, NEXT, PREV }
 /// Base specifications: [bootstrap 3](http://getbootstrap.com/javascript/#carousel) or
 /// [bootstrap 4](http://v4-alpha.getbootstrap.com/components/carousel/)
 ///
-/// [demo](http://dart-league.github.io/md_bootstrap/#carousel)
+/// [demo](http://dart-land.github.io/md_bootstrap/#carousel)
 @Component(selector: "bs-carousel", templateUrl: 'carousel.html', directives: const [coreDirectives])
 class BsCarouselComponent implements OnDestroy, AfterContentInit {
   /// if `true` will disable pausing on carousel mouse hover
@@ -183,7 +183,7 @@ class BsCarouselComponent implements OnDestroy, AfterContentInit {
 
 /// Creates the slide element that will be displayed in the carousel
 ///
-/// [demo](http://dart-league.github.io/md_bootstrap/#carousel)
+/// [demo](http://dart-land.github.io/md_bootstrap/#carousel)
 @Component(
     selector: "bs-slide",
     template: '''

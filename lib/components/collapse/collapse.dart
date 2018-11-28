@@ -9,7 +9,7 @@ import 'dart:async';
 /// Base specifications: [bootstrap 3](http://getbootstrap.com/javascript/#collapse)
 /// or [bootstrap 4](http://v4-alpha.getbootstrap.com/components/collapse/)
 ///
-/// [demo](http://dart-league.github.io/md_bootstrap/#collapse)
+/// [demo](http://dart-land.github.io/md_bootstrap/#collapse)
 @Directive(selector: '[bsCollapse]')
 class BsCollapseDirective {
   /// Constructs an collapsible component

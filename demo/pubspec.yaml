@@ -11,7 +11,7 @@ dependencies:
 #  md_bootstrap: ^0.6.3
   md_bootstrap:
     path: ..
-#    git: https://github.com/dart-league/md_bootstrap
+#    git: https://github.com/dart-land/md_bootstrap
 dev_dependencies:
   sass_builder: ^2.1.1
 #  sass_builder:

@@ -7,7 +7,7 @@ import 'package:angular/angular.dart';
 ///
 /// Base specifications: [bootstrap 4](http://v4-alpha.getbootstrap.com/components/progress/)
 ///
-/// [demo](http://dart-league.github.io/md_bootstrap/build/web/#progress)
+/// [demo](http://dart-land.github.io/md_bootstrap/build/web/#progress)
 @Component(
     selector: 'bs-progress',
     template: '''
