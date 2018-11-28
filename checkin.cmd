@@ -1,1 +1,1 @@
-git add -A && git commit -m "removed example" && git push
+git add -A && git commit -m "added example" && git push

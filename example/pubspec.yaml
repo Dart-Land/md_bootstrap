@@ -1,16 +1,20 @@
 name: example
 description: A web app that uses AngularDart Components
-# version: 1.0.0
-# homepage: https://www.example.com
-# author: SpivEgin <email@example.com>
+version: 1.0.0
+homepage: https://www.example.com
+author: YourName <email@example.com>
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
-
 dependencies:
   angular: ^5.1.0
+  angular_forms: ^2.1.0
+  angular_router: ^2.0.0-alpha+20
   angular_components: ^0.10.1
-
+  md_bootstrap:
+    git: https://github.com/Dart-Land/md_bootstrap.git
+  dson: ^0.15.2
+  string_converters: ^1.0.0
 dev_dependencies:
   angular_test: ^2.1.0
   build_runner: ^1.1.2
