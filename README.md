@@ -1,7 +1,5 @@
 # md_bootstrap
 
-[Join the chat](https://gitter.im/dart-land/md_bootstrap)
-
 [Usage & Demo](https://dart-land.github.io/md_bootstrap/)
 
 # Getting Started
