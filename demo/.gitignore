@@ -1,0 +1,11 @@
+/.pub/
+/.packages
+/packages
+/web/packages/
+
+/pubspec.lock
+
+
+/web/style.css
+/.dart_tool/
+/build
