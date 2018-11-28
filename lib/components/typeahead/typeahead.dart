@@ -2,15 +2,15 @@ import 'dart:async';
 import 'dart:html';
 
 import "package:angular/angular.dart";
-import 'package:ng_bootstrap/components/dropdown/index.dart';
+import 'package:md_bootstrap/components/dropdown/index.dart';
 import 'package:stream_transform/stream_transform.dart';
-import 'package:ng_bootstrap/components/button/toggle.dart';
+import 'package:md_bootstrap/components/button/toggle.dart';
 import 'package:angular_forms/angular_forms.dart';
 
 // todo: options loading by http not yet implemented
 /// Creates a type-ahead component
 ///
-/// [demo](http://dart-league.github.io/ng_bootstrap/#typeahed)
+/// [demo](http://dart-league.github.io/md_bootstrap/#typeahed)
 @Component(
     selector: "bs-typeahead",
     templateUrl: 'typeahead.html',

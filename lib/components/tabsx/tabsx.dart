@@ -14,7 +14,7 @@ const BS_TABSX_DIRECTIVES = bsTabsxDirectives;
 /// Base specifications:
 /// [bootstrap 4](http://v4-alpha.getbootstrap.com/components/navs/)
 ///
-/// [demo](http://dart-league.github.io/ng_bootstrap/#tabs)
+/// [demo](http://dart-league.github.io/md_bootstrap/#tabs)
 @Component(selector: "bs-tabsx", templateUrl: 'tabsx.html', directives: const [coreDirectives])
 class BsTabsxComponents implements OnInit, AfterContentInit {
   /// if `true` tabs will be placed vertically
@@ -87,7 +87,7 @@ class BsTabsxComponents implements OnInit, AfterContentInit {
 
 /// Creates a tab which will be inside the [BsTabsxComponents]
 ///
-/// [demo](http://dart-league.github.io/ng_bootstrap/#tab)
+/// [demo](http://dart-league.github.io/md_bootstrap/#tab)
 @Directive(selector: "bs-tabx")
 class BsTabxDirective {
 

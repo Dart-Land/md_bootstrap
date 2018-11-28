@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import "package:angular/angular.dart";
-import 'package:ng_bootstrap/components/modal/modal.dart';
+import 'package:md_bootstrap/components/modal/modal.dart';
 
 @Component(selector: "modal-demo",
     templateUrl: "modal_demo.html",

@@ -1,6 +1,6 @@
 import "package:angular/angular.dart";
 import 'package:angular_forms/angular_forms.dart';
-import 'package:ng_bootstrap/components/carousel/carousel.dart';
+import 'package:md_bootstrap/components/carousel/carousel.dart';
 
 @Component(selector: "carousel-demo",
     templateUrl: "carousel_demo.html",

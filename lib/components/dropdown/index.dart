@@ -13,4 +13,4 @@ part "toggle.dart";
 const bsDropdownDirectives = const [BsDropdownDirective, BsDropdownMenuDirective, BsDropdownToggleDirective];
 
 @Deprecated('Renamed to "bsDropdownDirectives')
-const NG_BOOTSTRAP_DROPDOWN_DIRECTIVES = bsDropdownDirectives;
+const md_bootstrap_DROPDOWN_DIRECTIVES = bsDropdownDirectives;

@@ -1,5 +1,5 @@
 import 'package:angular/angular.dart';
-import 'package:ng_bootstrap/core/position.dart';
+import 'package:md_bootstrap/core/position.dart';
 import 'dart:async';
 import 'dart:html';
 

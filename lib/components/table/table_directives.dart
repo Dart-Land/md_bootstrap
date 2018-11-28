@@ -6,7 +6,7 @@ import 'dart:math';
 
 import "package:angular/angular.dart";
 import 'package:angular_forms/angular_forms.dart';
-import 'package:ng_bootstrap/components/input/input.dart';
+import 'package:md_bootstrap/components/input/input.dart';
 
 part 'column_directive.dart';
 part 'table_component.dart';

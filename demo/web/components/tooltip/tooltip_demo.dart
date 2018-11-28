@@ -1,6 +1,6 @@
 import "package:angular/angular.dart";
 import 'package:angular_forms/angular_forms.dart';
-import 'package:ng_bootstrap/ng_bootstrap.dart';
+import 'package:md_bootstrap/md_bootstrap.dart';
 
 @Component(selector: "tooltip-demo",
     templateUrl: 'tooltip_demo.html',

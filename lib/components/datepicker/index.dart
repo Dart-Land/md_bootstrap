@@ -4,8 +4,8 @@ import 'dart:html';
 import "package:angular/angular.dart";
 import 'package:intl/intl.dart';
 import 'package:js_shims/js_shims.dart';
-import 'package:ng_bootstrap/components/dropdown/index.dart';
-import 'package:ng_bootstrap/components/button/toggle.dart';
+import 'package:md_bootstrap/components/dropdown/index.dart';
+import 'package:md_bootstrap/components/button/toggle.dart';
 import 'package:angular_forms/angular_forms.dart';
 import 'package:angular_forms/src/directives/shared.dart';
 import 'package:angular_forms/src/directives/control_value_accessor.dart';
@@ -52,4 +52,4 @@ const DateTime MAX_DATE = null;
 
 const bool SHORTCUT_PROPAGATION = false;
 
-const NG_BOOTSTRAP_DATEPICKER_DIRECTIVES = const [BsDatePickerComponent, BsDatePickerPopupComponent];
+const md_bootstrap_DATEPICKER_DIRECTIVES = const [BsDatePickerComponent, BsDatePickerPopupComponent];

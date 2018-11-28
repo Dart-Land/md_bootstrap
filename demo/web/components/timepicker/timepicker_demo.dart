@@ -1,6 +1,6 @@
 import "package:angular/angular.dart";
 import 'package:angular_forms/angular_forms.dart';
-import "package:ng_bootstrap/components/timepicker/timepicker.dart";
+import "package:md_bootstrap/components/timepicker/timepicker.dart";
 
 @Component(selector: "timepicker-demo",
     templateUrl: 'timepicker_demo.html',

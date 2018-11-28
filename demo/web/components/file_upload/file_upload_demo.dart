@@ -1,7 +1,7 @@
 import 'dart:html';
 import "package:angular/angular.dart";
-import 'package:ng_bootstrap/components/file_upload/file_upload.dart';
-import 'package:ng_bootstrap/components/progress/progress.dart';
+import 'package:md_bootstrap/components/file_upload/file_upload.dart';
+import 'package:md_bootstrap/components/progress/progress.dart';
 
 // const URL = '/api/';
 const URL = "https://evening-anchorage-3159.herokuapp.com/api/";

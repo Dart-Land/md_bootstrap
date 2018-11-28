@@ -1,5 +1,5 @@
 import "package:angular/angular.dart";
-import 'package:ng_bootstrap/components/collapse/collapse.dart';
+import 'package:md_bootstrap/components/collapse/collapse.dart';
 
 
 @Component(

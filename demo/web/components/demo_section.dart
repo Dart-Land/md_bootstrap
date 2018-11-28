@@ -1,7 +1,7 @@
 import 'dart:html';
 
 import "package:angular/angular.dart";
-import "package:ng_bootstrap/ng_bootstrap.dart";
+import "package:md_bootstrap/md_bootstrap.dart";
 import 'package:string_converters/string_converters.dart';
 
 @Component (
@@ -23,10 +23,10 @@ class DemoSection implements OnInit {
   ngOnInit() async {
     nameTN = toTableName(name);
     var docPathNameTN = 'components_$nameTN\_$nameTN';
-    var rawMasterUrl = 'https://raw.githubusercontent.com/dart-league/ng_bootstrap/develop/demo';
+    var rawMasterUrl = 'https://raw.githubusercontent.com/dart-league/md_bootstrap/develop/demo';
     var componentsUrl = '$rawMasterUrl/web/components';
     var _docPath = docPath ?? docPathNameTN;
-    docUrl = 'https://www.dartdocs.org/documentation/ng_bootstrap/latest/$_docPath/$_docPath-library.html';
+    docUrl = 'https://www.dartdocs.org/documentation/md_bootstrap/latest/$_docPath/$_docPath-library.html';
     dart = await HttpRequest.getString('$componentsUrl/$nameTN/${nameTN}_demo.dart');
     html = await HttpRequest.getString('$componentsUrl/$nameTN/${nameTN}_demo.html');
   }

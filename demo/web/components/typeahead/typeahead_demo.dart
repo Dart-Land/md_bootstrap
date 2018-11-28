@@ -6,7 +6,7 @@ import 'dart:html';
 import "package:angular/angular.dart";
 import 'package:angular_forms/angular_forms.dart';
 import 'package:dson/dson.dart';
-import 'package:ng_bootstrap/ng_bootstrap.dart';
+import 'package:md_bootstrap/md_bootstrap.dart';
 
 part 'typeahead_demo.g.dart';
 

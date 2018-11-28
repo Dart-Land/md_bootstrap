@@ -1,6 +1,6 @@
 import "package:angular/angular.dart";
 import 'package:angular_forms/angular_forms.dart';
-import 'package:ng_bootstrap/components/input/input.dart';
+import 'package:md_bootstrap/components/input/input.dart';
 
 @Component(selector: "input-demo",
     templateUrl: "input_demo.html",

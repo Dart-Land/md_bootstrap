@@ -1,6 +1,6 @@
 import "package:angular/angular.dart";
 import 'package:angular_forms/angular_forms.dart';
-import 'package:ng_bootstrap/components/accordion/accordion.dart';
+import 'package:md_bootstrap/components/accordion/accordion.dart';
 
 @Component(selector: "accordion-demo",
     templateUrl: "accordion_demo.html",

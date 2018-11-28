@@ -2,11 +2,11 @@ import 'package:angular/angular.dart';
 import 'package:js_shims/js_shims.dart';
 import 'dart:html';
 import 'dart:async';
-import 'package:ng_bootstrap/components/collapse/collapse.dart';
+import 'package:md_bootstrap/components/collapse/collapse.dart';
 
 /// List of directives needed to create an accordion
 @Deprecated('Renamed to `bsAccordionDirectives`')
-const NG_BOOTSTRAP_ACCORDION_DIRECTIVES = bsAccordionDirectives;
+const md_bootstrap_ACCORDION_DIRECTIVES = bsAccordionDirectives;
 
 /// List of directives needed to create an accordion
 const bsAccordionDirectives = const [BsAccordionComponent, BsAccordionPanelComponent];
@@ -17,7 +17,7 @@ const bsAccordionDirectives = const [BsAccordionComponent, BsAccordionPanelCompo
 /// Base specifications: [bootstrap 3](http://getbootstrap.com/javascript/#collapse-example-accordion)
 /// or [bootstrap 4](http://v4-alpha.getbootstrap.com/components/collapse/#accordion-example)
 ///
-/// [demo](http://dart-league.github.io/ng_bootstrap/#accordion)
+/// [demo](http://dart-league.github.io/md_bootstrap/#accordion)
 @Component (selector: 'bs-accordion',
 //    host: const { '[class.panel-group]' : 'true'},
     template: '<ng-content></ng-content>',
@@ -60,7 +60,7 @@ class BsAccordionComponent implements AfterContentInit {
 
 /// Creates an accordion-panel
 ///
-/// [demo](http://dart-league.github.io/ng_bootstrap/#accordion)
+/// [demo](http://dart-league.github.io/md_bootstrap/#accordion)
 @Component(selector: 'bs-accordion-panel',
     templateUrl: 'accordion_panel.html',
     directives: const [BsCollapseDirective, coreDirectives])

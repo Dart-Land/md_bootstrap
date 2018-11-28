@@ -1,7 +1,7 @@
 import "package:angular/angular.dart";
 import 'dart:async';
 import 'dart:html';
-import 'package:ng_bootstrap/components/tabsx/tabsx.dart';
+import 'package:md_bootstrap/components/tabsx/tabsx.dart';
 
 @Component(selector: "tabsx-demo",
     templateUrl: "tabsx_demo.html",
